@@ -13,7 +13,7 @@ public class Question10 {
 			System.out.println("Match 2");// <<<<current !
 
 		} else {
-			System.out.println("No Match");
+			System.out.println("No Match ");
 		}
 	}
 
